@@ -1,2 +1,2 @@
 # sidehustle_training
-All exercises done in the course
+All exercises done in side hustle training
